@@ -11,6 +11,15 @@
     <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>אור צדיקים</title>
+      <description>אור צדיקים</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%90%D7%95%D7%A8%20%D7%A6%D7%93%D7%99%D7%A7%D7%99%D7%9D.mp3" length="69004140" type="audio/mpeg"/>
+      <guid isPermaLink="false">אור צדיקים.mp3</guid>
+      <pubDate>Wed, 21 Oct 2026 00:37:23 -0000</pubDate>
+      <itunes:duration>02:19:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>לך לך</title>
       <description>לך לך</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%9C%D7%9A%20%D7%9C%D7%9A.mp3" length="110737299" type="audio/mpeg"/>
