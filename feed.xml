@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>הרב יצחק כהן שליט״א · שערי זהר</title>
+    <description>שיעורי תורה בספר הזוהר הקדוש על פי מתוק מדבש, ושיעורים בענייני השבוע והמועדים, מאת הרה״ג יצחק כהן שליט״א. Otzar HaTorah - אוצר התורה.</description>
+    <link>https://rabmeireliyahu.github.io/yitzchakcohen</link>
+    <language>he</language>
+    <itunes:author>הרב יצחק כהן שליט״א</itunes:author>
+    <itunes:owner><itunes:name>הרב יצחק כהן שליט״א</itunes:name><itunes:email>rabmeireliyahu@gmail.com</itunes:email></itunes:owner>
+    <itunes:image href="https://rabmeireliyahu.github.io/yitzchakcohen/portada.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+  </channel>
+</rss>
