@@ -11,6 +11,15 @@
     <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>קב חומטון</title>
+      <description>קב חומטון</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%A7%D7%91%20%D7%97%D7%95%D7%9E%D7%98%D7%95%D7%9F.mp3" length="114420093" type="audio/mpeg"/>
+      <guid isPermaLink="false">קב חומטון.mp3</guid>
+      <pubDate>Mon, 28 Sep 2026 11:38:05 -0000</pubDate>
+      <itunes:duration>01:58:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>רני עקרה</title>
       <description>רני עקרה</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%A8%D7%A0%D7%99%20%D7%A2%D7%A7%D7%A8%D7%94.mp3" length="112014045" type="audio/mpeg"/>
