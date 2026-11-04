@@ -11,6 +11,15 @@
     <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>שבת בראשית</title>
+      <description>שבת בראשית</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%A9%D7%91%D7%AA%20%D7%91%D7%A8%D7%90%D7%A9%D7%99%D7%AA.mp3" length="140381325" type="audio/mpeg"/>
+      <guid isPermaLink="false">שבת בראשית.mp3</guid>
+      <pubDate>Fri, 09 Oct 2026 02:41:55 -0000</pubDate>
+      <itunes:duration>02:25:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>שאלות ותשובות עניינים שונים</title>
       <description>שאלות ותשובות עניינים שונים</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%A9%D7%90%D7%9C%D7%95%D7%AA%20%D7%95%D7%AA%D7%A9%D7%95%D7%91%D7%95%D7%AA%20%D7%A2%D7%A0%D7%99%D7%99%D7%A0%D7%99%D7%9D%20%D7%A9%D7%95%D7%A0%D7%99%D7%9D.mp3" length="103476669" type="audio/mpeg"/>
