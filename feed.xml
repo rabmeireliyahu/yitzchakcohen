@@ -11,6 +11,15 @@
     <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>פאזל</title>
+      <description>פאזל</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%A4%D7%90%D7%96%D7%9C.mp3" length="92230413" type="audio/mpeg"/>
+      <guid isPermaLink="false">פאזל.mp3</guid>
+      <pubDate>Mon, 08 Dec 2025 08:41:21 -0000</pubDate>
+      <itunes:duration>01:35:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>על המלחמות</title>
       <description>על המלחמות</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%A2%D7%9C%20%D7%94%D7%9E%D7%9C%D7%97%D7%9E%D7%95%D7%AA.mp3" length="85741965" type="audio/mpeg"/>
