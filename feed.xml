@@ -11,6 +11,15 @@
     <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>תהיה בריא</title>
+      <description>תהיה בריא</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%AA%D7%94%D7%99%D7%94%20%D7%91%D7%A8%D7%99%D7%90.mp3" length="110551869" type="audio/mpeg"/>
+      <guid isPermaLink="false">תהיה בריא.mp3</guid>
+      <pubDate>Sun, 07 Jun 2026 11:21:03 -0000</pubDate>
+      <itunes:duration>01:58:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>שלום שלום</title>
       <description>שלום שלום</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%A9%D7%9C%D7%95%D7%9D%20%D7%A9%D7%9C%D7%95%D7%9D.mp3" length="97890477" type="audio/mpeg"/>
