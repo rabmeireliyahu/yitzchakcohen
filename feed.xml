@@ -11,6 +11,15 @@
     <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>עושה רושם</title>
+      <description>עושה רושם</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%A2%D7%95%D7%A9%D7%94%20%D7%A8%D7%95%D7%A9%D7%9D.mp3" length="90093741" type="audio/mpeg"/>
+      <guid isPermaLink="false">עושה רושם.mp3</guid>
+      <pubDate>Sun, 10 Aug 2025 23:34:01 -0000</pubDate>
+      <itunes:duration>01:38:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>חדר כושר</title>
       <description>חדר כושר</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%97%D7%93%D7%A8%20%D7%9B%D7%95%D7%A9%D7%A8.mp3" length="87675549" type="audio/mpeg"/>
