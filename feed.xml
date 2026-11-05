@@ -11,6 +11,15 @@
     <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>קול רינה</title>
+      <description>קול רינה</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%A7%D7%95%D7%9C%20%D7%A8%D7%99%D7%A0%D7%94.mp3" length="116495901" type="audio/mpeg"/>
+      <guid isPermaLink="false">קול רינה.mp3</guid>
+      <pubDate>Mon, 24 Feb 2025 00:43:05 -0000</pubDate>
+      <itunes:duration>02:06:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>אילן אילן</title>
       <description>אילן אילן</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%90%D7%99%D7%9C%D7%9F%20%D7%90%D7%99%D7%9C%D7%9F.mp3" length="72936992" type="audio/mpeg"/>
