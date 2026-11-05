@@ -11,6 +11,15 @@
     <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>חדר כושר</title>
+      <description>חדר כושר</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%97%D7%93%D7%A8%20%D7%9B%D7%95%D7%A9%D7%A8.mp3" length="87675549" type="audio/mpeg"/>
+      <guid isPermaLink="false">חדר כושר.mp3</guid>
+      <pubDate>Sun, 17 Aug 2025 11:07:44 -0000</pubDate>
+      <itunes:duration>01:37:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>קיצור דרך</title>
       <description>קיצור דרך</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%A7%D7%99%D7%A6%D7%95%D7%A8%20%D7%93%D7%A8%D7%9A.mp3" length="76508829" type="audio/mpeg"/>
