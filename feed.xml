@@ -11,6 +11,15 @@
     <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>רוח גבית</title>
+      <description>רוח גבית</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%A8%D7%95%D7%97%20%D7%92%D7%91%D7%99%D7%AA.mp3" length="77373549" type="audio/mpeg"/>
+      <guid isPermaLink="false">רוח גבית.mp3</guid>
+      <pubDate>Mon, 24 Aug 2026 13:57:24 -0000</pubDate>
+      <itunes:duration>01:20:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>אינפוזיה</title>
       <description>אינפוזיה</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%90%D7%99%D7%A0%D7%A4%D7%95%D7%96%D7%99%D7%94.mp3" length="106271997" type="audio/mpeg"/>
