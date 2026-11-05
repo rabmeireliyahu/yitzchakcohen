@@ -11,6 +11,15 @@
     <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>שלום שלום</title>
+      <description>שלום שלום</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%A9%D7%9C%D7%95%D7%9D%20%D7%A9%D7%9C%D7%95%D7%9D.mp3" length="97890477" type="audio/mpeg"/>
+      <guid isPermaLink="false">שלום שלום.mp3</guid>
+      <pubDate>Thu, 11 Jun 2026 02:56:55 -0000</pubDate>
+      <itunes:duration>01:43:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>דרך צלחה</title>
       <description>דרך צלחה</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%93%D7%A8%D7%9A%20%D7%A6%D7%9C%D7%97%D7%94.mp3" length="97967532" type="audio/mpeg"/>
