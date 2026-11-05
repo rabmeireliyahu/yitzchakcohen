@@ -11,6 +11,15 @@
     <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>קיצור דרך</title>
+      <description>קיצור דרך</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%A7%D7%99%D7%A6%D7%95%D7%A8%20%D7%93%D7%A8%D7%9A.mp3" length="76508829" type="audio/mpeg"/>
+      <guid isPermaLink="false">קיצור דרך.mp3</guid>
+      <pubDate>Sat, 23 Aug 2025 23:07:41 -0000</pubDate>
+      <itunes:duration>01:20:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>תורת חיים</title>
       <description>תורת חיים</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%AA%D7%95%D7%A8%D7%AA%20%D7%97%D7%99%D7%99%D7%9D.mp3" length="193608693" type="audio/mpeg"/>
