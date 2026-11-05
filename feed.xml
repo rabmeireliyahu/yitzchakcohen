@@ -11,6 +11,15 @@
     <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>מודה אני</title>
+      <description>מודה אני</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%9E%D7%95%D7%93%D7%94%20%D7%90%D7%A0%D7%99.mp3" length="80570877" type="audio/mpeg"/>
+      <guid isPermaLink="false">מודה אני.mp3</guid>
+      <pubDate>Mon, 03 Mar 2025 04:48:16 -0000</pubDate>
+      <itunes:duration>01:28:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>רב ברכות</title>
       <description>רב ברכות</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%A8%D7%91%20%D7%91%D7%A8%D7%9B%D7%95%D7%AA.mp3" length="75567405" type="audio/mpeg"/>
