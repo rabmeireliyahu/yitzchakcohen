@@ -11,6 +11,15 @@
     <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>אינפוזיה</title>
+      <description>אינפוזיה</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%90%D7%99%D7%A0%D7%A4%D7%95%D7%96%D7%99%D7%94.mp3" length="106271997" type="audio/mpeg"/>
+      <guid isPermaLink="false">אינפוזיה.mp3</guid>
+      <pubDate>Sun, 30 Aug 2026 02:40:47 -0000</pubDate>
+      <itunes:duration>01:47:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>שדרות רוטשילד</title>
       <description>שדרות רוטשילד</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%A9%D7%93%D7%A8%D7%95%D7%AA%20%D7%A8%D7%95%D7%98%D7%A9%D7%99%D7%9C%D7%93.mp3" length="96638133" type="audio/mpeg"/>
