@@ -11,6 +11,15 @@
     <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>אור גדול</title>
+      <description>אור גדול</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%90%D7%95%D7%A8%20%D7%92%D7%93%D7%95%D7%9C.mp3" length="89038269" type="audio/mpeg"/>
+      <guid isPermaLink="false">אור גדול.mp3</guid>
+      <pubDate>Mon, 05 Jan 2026 02:39:45 -0000</pubDate>
+      <itunes:duration>01:31:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>שפרה ופועה</title>
       <description>שפרה ופועה</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%A9%D7%A4%D7%A8%D7%94%20%D7%95%D7%A4%D7%95%D7%A2%D7%94.mp3" length="106513005" type="audio/mpeg"/>
