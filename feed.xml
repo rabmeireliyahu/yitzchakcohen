@@ -11,6 +11,15 @@
     <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>ערב ראש השנה</title>
+      <description>ערב ראש השנה</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%A2%D7%A8%D7%91%20%D7%A8%D7%90%D7%A9%20%D7%94%D7%A9%D7%A0%D7%94.mp3" length="91158021" type="audio/mpeg"/>
+      <guid isPermaLink="false">ערב ראש השנה.mp3</guid>
+      <pubDate>Thu, 10 Sep 2026 07:16:54 -0000</pubDate>
+      <itunes:duration>01:34:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>משיח צדקך</title>
       <description>משיח צדקך</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%9E%D7%A9%D7%99%D7%97%20%D7%A6%D7%93%D7%A7%D7%9A.mp3" length="125278389" type="audio/mpeg"/>
