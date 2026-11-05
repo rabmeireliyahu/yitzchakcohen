@@ -11,6 +11,15 @@
     <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>רב ברכות</title>
+      <description>רב ברכות</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%A8%D7%91%20%D7%91%D7%A8%D7%9B%D7%95%D7%AA.mp3" length="75567405" type="audio/mpeg"/>
+      <guid isPermaLink="false">רב ברכות.mp3</guid>
+      <pubDate>Sun, 09 Mar 2025 05:54:42 -0000</pubDate>
+      <itunes:duration>01:20:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>עַם קְרֹבוֹ</title>
       <description>עַם קְרֹבוֹ</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%A2%D6%B7%D7%9D%20%D7%A7%D6%B0%D7%A8%D6%B9%D7%91%D7%95%D6%B9.mp3" length="67947741" type="audio/mpeg"/>
