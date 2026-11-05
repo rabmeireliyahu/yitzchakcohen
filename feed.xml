@@ -11,6 +11,15 @@
     <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>מלך נאמן</title>
+      <description>מלך נאמן</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%9E%D7%9C%D7%9A%20%D7%A0%D7%90%D7%9E%D7%9F.mp3" length="98509581" type="audio/mpeg"/>
+      <guid isPermaLink="false">מלך נאמן.mp3</guid>
+      <pubDate>Wed, 22 Oct 2025 00:11:02 -0000</pubDate>
+      <itunes:duration>01:50:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>מליץ יושר</title>
       <description>מליץ יושר</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%9E%D7%9C%D7%99%D7%A5%20%D7%99%D7%95%D7%A9%D7%A8.mp3" length="37379002" type="audio/mpeg"/>
