@@ -11,6 +11,15 @@
     <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>שלום בנינו</title>
+      <description>שלום בנינו</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%A9%D7%9C%D7%95%D7%9D%20%D7%91%D7%A0%D7%99%D7%A0%D7%95.mp3" length="72617757" type="audio/mpeg"/>
+      <guid isPermaLink="false">שלום בנינו.mp3</guid>
+      <pubDate>Mon, 27 Jan 2025 23:55:32 -0000</pubDate>
+      <itunes:duration>01:19:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>מעשה ניסים</title>
       <description>מעשה ניסים</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%9E%D7%A2%D7%A9%D7%94%20%D7%A0%D7%99%D7%A1%D7%99%D7%9D.mp3" length="73985181" type="audio/mpeg"/>
