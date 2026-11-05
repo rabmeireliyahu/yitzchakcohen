@@ -29,6 +29,15 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
+      <title>עם הספר</title>
+      <description>עם הספר</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%A2%D7%9D%20%D7%94%D7%A1%D7%A4%D7%A8.mp3" length="82367757" type="audio/mpeg"/>
+      <guid isPermaLink="false">עם הספר.mp3</guid>
+      <pubDate>Sun, 06 Jul 2025 23:58:15 -0000</pubDate>
+      <itunes:duration>01:30:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>אדמת קודש</title>
       <description>אדמת קודש</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%90%D7%93%D7%9E%D7%AA%20%D7%A7%D7%95%D7%93%D7%A9.mp3" length="94381101" type="audio/mpeg"/>
