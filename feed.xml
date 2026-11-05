@@ -11,6 +11,15 @@
     <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>אבן טובה</title>
+      <description>אבן טובה</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%90%D7%91%D7%9F%20%D7%98%D7%95%D7%91%D7%94.mp3" length="165527997" type="audio/mpeg"/>
+      <guid isPermaLink="false">אבן טובה.mp3</guid>
+      <pubDate>Tue, 17 Feb 2026 00:36:37 -0000</pubDate>
+      <itunes:duration>03:10:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>שבת כהלכתה</title>
       <description>שבת כהלכתה</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%A9%D7%91%D7%AA%20%D7%9B%D7%94%D7%9C%D7%9B%D7%AA%D7%94.mp3" length="149272989" type="audio/mpeg"/>
