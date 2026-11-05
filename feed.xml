@@ -11,6 +11,15 @@
     <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>מעשה ניסים</title>
+      <description>מעשה ניסים</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%9E%D7%A2%D7%A9%D7%94%20%D7%A0%D7%99%D7%A1%D7%99%D7%9D.mp3" length="73985181" type="audio/mpeg"/>
+      <guid isPermaLink="false">מעשה ניסים.mp3</guid>
+      <pubDate>Sun, 02 Feb 2025 00:02:27 -0000</pubDate>
+      <itunes:duration>01:18:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>שערי ברכה</title>
       <description>שערי ברכה</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%A9%D7%A2%D7%A8%D7%99%20%D7%91%D7%A8%D7%9B%D7%94.mp3" length="59852061" type="audio/mpeg"/>
