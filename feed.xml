@@ -11,6 +11,15 @@
     <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>בית רימון</title>
+      <description>בית רימון</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%91%D7%99%D7%AA%20%D7%A8%D7%99%D7%9E%D7%95%D7%9F.mp3" length="190708269" type="audio/mpeg"/>
+      <guid isPermaLink="false">בית רימון.mp3</guid>
+      <pubDate>Sat, 31 May 2025 13:02:23 -0000</pubDate>
+      <itunes:duration>03:45:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>מפתח לחיים</title>
       <description>מפתח לחיים</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%9E%D7%A4%D7%AA%D7%97%20%D7%9C%D7%97%D7%99%D7%99%D7%9D.mp3" length="96954957" type="audio/mpeg"/>
