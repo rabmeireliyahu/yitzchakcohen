@@ -11,6 +11,15 @@
     <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>עורי צפון</title>
+      <description>עורי צפון</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%A2%D7%95%D7%A8%D7%99%20%D7%A6%D7%A4%D7%95%D7%9F.mp3" length="133320717" type="audio/mpeg"/>
+      <guid isPermaLink="false">עורי צפון.mp3</guid>
+      <pubDate>Thu, 16 May 2024 13:00:17 -0000</pubDate>
+      <itunes:duration>02:21:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>אשרינו</title>
       <description>אשרינו</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%90%D7%A9%D7%A8%D7%99%D7%A0%D7%95.mp3" length="84233901" type="audio/mpeg"/>
