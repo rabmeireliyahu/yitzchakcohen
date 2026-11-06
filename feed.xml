@@ -11,6 +11,15 @@
     <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>הכנסת כלה</title>
+      <description>הכנסת כלה</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%94%D7%9B%D7%A0%D7%A1%D7%AA%20%D7%9B%D7%9C%D7%94.mp3" length="223784421" type="audio/mpeg"/>
+      <guid isPermaLink="false">הכנסת כלה.mp3</guid>
+      <pubDate>Wed, 14 Feb 2024 13:32:34 -0000</pubDate>
+      <itunes:duration>04:10:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>סוד הסביבון</title>
       <description>סוד הסביבון</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%A1%D7%95%D7%93%20%D7%94%D7%A1%D7%91%D7%99%D7%91%D7%95%D7%9F.mp3" length="72592917" type="audio/mpeg"/>
