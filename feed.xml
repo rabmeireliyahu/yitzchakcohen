@@ -11,6 +11,15 @@
     <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>שבת מנוחה</title>
+      <description>שבת מנוחה</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%A9%D7%91%D7%AA%20%D7%9E%D7%A0%D7%95%D7%97%D7%94.mp3" length="135739293" type="audio/mpeg"/>
+      <guid isPermaLink="false">שבת מנוחה.mp3</guid>
+      <pubDate>Sun, 23 Jun 2024 22:00:11 -0000</pubDate>
+      <itunes:duration>02:30:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>חברים לנצח</title>
       <description>חברים לנצח</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%97%D7%91%D7%A8%D7%99%D7%9D%20%D7%9C%D7%A0%D7%A6%D7%97.mp3" length="49498941" type="audio/mpeg"/>
