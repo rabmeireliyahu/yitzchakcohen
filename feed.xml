@@ -11,6 +11,15 @@
     <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>תרבות יון</title>
+      <description>תרבות יון</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%AA%D7%A8%D7%91%D7%95%D7%AA%20%D7%99%D7%95%D7%9F.mp3" length="83138685" type="audio/mpeg"/>
+      <guid isPermaLink="false">תרבות יון.mp3</guid>
+      <pubDate>Fri, 08 Dec 2023 02:57:15 -0000</pubDate>
+      <itunes:duration>01:30:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>תורת הבטחון</title>
       <description>תורת הבטחון</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%AA%D7%95%D7%A8%D7%AA%20%D7%94%D7%91%D7%98%D7%97%D7%95%D7%9F.mp3" length="159201885" type="audio/mpeg"/>
