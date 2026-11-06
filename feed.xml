@@ -38,6 +38,15 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
+      <title>מודעין</title>
+      <description>מודעין</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%9E%D7%95%D7%93%D7%A2%D7%99%D7%9F.mp3" length="62473682" type="audio/mpeg"/>
+      <guid isPermaLink="false">מודעין.mp3</guid>
+      <pubDate>Sun, 11 Feb 2024 04:06:33 -0000</pubDate>
+      <itunes:duration>01:11:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>הכנסת כלה</title>
       <description>הכנסת כלה</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%94%D7%9B%D7%A0%D7%A1%D7%AA%20%D7%9B%D7%9C%D7%94.mp3" length="223784421" type="audio/mpeg"/>
