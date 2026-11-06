@@ -11,6 +11,15 @@
     <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>חוגר כמפתח</title>
+      <description>חוגר כמפתח</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%97%D7%95%D7%92%D7%A8%20%D7%9B%D7%9E%D7%A4%D7%AA%D7%97.mp3" length="63607096" type="audio/mpeg"/>
+      <guid isPermaLink="false">חוגר כמפתח.mp3</guid>
+      <pubDate>Mon, 18 Dec 2023 08:26:08 -0000</pubDate>
+      <itunes:duration>01:13:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>חילך לאורייתא</title>
       <description>חילך לאורייתא</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%97%D7%99%D7%9C%D7%9A%20%D7%9C%D7%90%D7%95%D7%A8%D7%99%D7%99%D7%AA%D7%90.mp3" length="95402565" type="audio/mpeg"/>
