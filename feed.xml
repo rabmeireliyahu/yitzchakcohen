@@ -11,6 +11,15 @@
     <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>גול עצמי</title>
+      <description>גול עצמי</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%92%D7%95%D7%9C%20%D7%A2%D7%A6%D7%9E%D7%99.mp3" length="62772563" type="audio/mpeg"/>
+      <guid isPermaLink="false">גול עצמי.mp3</guid>
+      <pubDate>Thu, 25 Jan 2024 12:14:07 -0000</pubDate>
+      <itunes:duration>01:09:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>מיתוק דינים</title>
       <description>מיתוק דינים</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%9E%D7%99%D7%AA%D7%95%D7%A7%20%D7%93%D7%99%D7%A0%D7%99%D7%9D.mp3" length="80763429" type="audio/mpeg"/>
