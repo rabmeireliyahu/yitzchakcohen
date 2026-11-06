@@ -11,6 +11,15 @@
     <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>אשה אחת</title>
+      <description>אשה אחת</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%90%D7%A9%D7%94%20%D7%90%D7%97%D7%AA.mp3" length="39500013" type="audio/mpeg"/>
+      <guid isPermaLink="false">אשה אחת.mp3</guid>
+      <pubDate>Tue, 14 May 2024 11:33:45 -0000</pubDate>
+      <itunes:duration>01:17:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>עורי צפון</title>
       <description>עורי צפון</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%A2%D7%95%D7%A8%D7%99%20%D7%A6%D7%A4%D7%95%D7%9F.mp3" length="133320717" type="audio/mpeg"/>
