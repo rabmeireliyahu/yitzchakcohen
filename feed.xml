@@ -11,6 +11,15 @@
     <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>שבת שבתון</title>
+      <description>שבת שבתון</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%A9%D7%91%D7%AA%20%D7%A9%D7%91%D7%AA%D7%95%D7%9F.mp3" length="64826157" type="audio/mpeg"/>
+      <guid isPermaLink="false">שבת שבתון.mp3</guid>
+      <pubDate>Thu, 10 Oct 2024 13:24:32 -0000</pubDate>
+      <itunes:duration>01:10:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>צִלא דמהימנותא</title>
       <description>צִלא דמהימנותא</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%A6%D6%B4%D7%9C%D7%90%20%D7%93%D7%9E%D7%94%D7%99%D7%9E%D7%A0%D7%95%D7%AA%D7%90.mp3" length="77629782" type="audio/mpeg"/>
