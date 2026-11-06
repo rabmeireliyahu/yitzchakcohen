@@ -11,6 +11,15 @@
     <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>אחת למעלה</title>
+      <description>אחת למעלה</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%90%D7%97%D7%AA%20%D7%9C%D7%9E%D7%A2%D7%9C%D7%94.mp3" length="78928293" type="audio/mpeg"/>
+      <guid isPermaLink="false">אחת למעלה.mp3</guid>
+      <pubDate>Thu, 20 Jun 2024 07:29:46 -0000</pubDate>
+      <itunes:duration>01:22:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>שבת מנוחה</title>
       <description>שבת מנוחה</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%A9%D7%91%D7%AA%20%D7%9E%D7%A0%D7%95%D7%97%D7%94.mp3" length="135739293" type="audio/mpeg"/>
