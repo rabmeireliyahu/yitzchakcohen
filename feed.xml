@@ -11,6 +11,15 @@
     <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>נקדימון</title>
+      <description>נקדימון</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%A0%D7%A7%D7%93%D7%99%D7%9E%D7%95%D7%9F.mp3" length="72553725" type="audio/mpeg"/>
+      <guid isPermaLink="false">נקדימון.mp3</guid>
+      <pubDate>Thu, 28 Mar 2024 06:35:23 -0000</pubDate>
+      <itunes:duration>01:29:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>תורת הבטחון חלק ב' ספר שמות</title>
       <description>תורת הבטחון חלק ב' ספר שמות</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%AA%D7%95%D7%A8%D7%AA%20%D7%94%D7%91%D7%98%D7%97%D7%95%D7%9F%20%D7%97%D7%9C%D7%A7%20%D7%91%27%20%D7%A1%D7%A4%D7%A8%20%D7%A9%D7%9E%D7%95%D7%AA.mp3" length="160384461" type="audio/mpeg"/>
