@@ -11,6 +11,15 @@
     <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>תורה אחת</title>
+      <description>תורה אחת</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%AA%D7%95%D7%A8%D7%94%20%D7%90%D7%97%D7%AA.mp3" length="74745772" type="audio/mpeg"/>
+      <guid isPermaLink="false">תורה אחת.mp3</guid>
+      <pubDate>Tue, 12 Mar 2024 14:34:09 -0000</pubDate>
+      <itunes:duration>01:23:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>חכם או טיפש</title>
       <description>חכם או טיפש</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%97%D7%9B%D7%9D%20%D7%90%D7%95%20%D7%98%D7%99%D7%A4%D7%A9.mp3" length="71453757" type="audio/mpeg"/>
