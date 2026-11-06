@@ -11,6 +11,15 @@
     <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>דור הניצחון</title>
+      <description>דור הניצחון</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%93%D7%95%D7%A8%20%D7%94%D7%A0%D7%99%D7%A6%D7%97%D7%95%D7%9F.mp3" length="118709805" type="audio/mpeg"/>
+      <guid isPermaLink="false">דור הניצחון.mp3</guid>
+      <pubDate>Sun, 24 Mar 2024 10:01:29 -0000</pubDate>
+      <itunes:duration>02:09:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>נקדימון</title>
       <description>נקדימון</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%A0%D7%A7%D7%93%D7%99%D7%9E%D7%95%D7%9F.mp3" length="72553725" type="audio/mpeg"/>
