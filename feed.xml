@@ -11,6 +11,15 @@
     <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>אשרינו</title>
+      <description>אשרינו</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%90%D7%A9%D7%A8%D7%99%D7%A0%D7%95.mp3" length="84233901" type="audio/mpeg"/>
+      <guid isPermaLink="false">אשרינו.mp3</guid>
+      <pubDate>Mon, 20 May 2024 02:07:52 -0000</pubDate>
+      <itunes:duration>01:34:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>קדימה</title>
       <description>קדימה</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%A7%D7%93%D7%99%D7%9E%D7%94.mp3" length="71147757" type="audio/mpeg"/>
