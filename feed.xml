@@ -11,6 +11,15 @@
     <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>דורשי יחודך</title>
+      <description>דורשי יחודך</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%93%D7%95%D7%A8%D7%A9%D7%99%20%D7%99%D7%97%D7%95%D7%93%D7%9A.mp3" length="78143901" type="audio/mpeg"/>
+      <guid isPermaLink="false">דורשי יחודך.mp3</guid>
+      <pubDate>Sat, 10 Jun 2023 20:41:37 -0000</pubDate>
+      <itunes:duration>01:23:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>נייר מחוק</title>
       <description>נייר מחוק</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%A0%D7%99%D7%99%D7%A8%20%D7%9E%D7%97%D7%95%D7%A7.mp3" length="82654077" type="audio/mpeg"/>
