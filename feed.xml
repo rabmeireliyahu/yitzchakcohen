@@ -11,6 +11,15 @@
     <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>בן סורר</title>
+      <description>בן סורר</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%91%D7%9F%20%D7%A1%D7%95%D7%A8%D7%A8.mp3" length="119777805" type="audio/mpeg"/>
+      <guid isPermaLink="false">בן סורר.mp3</guid>
+      <pubDate>Thu, 07 Sep 2023 05:10:53 -0000</pubDate>
+      <itunes:duration>02:12:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>דבק טוב</title>
       <description>דבק טוב</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%93%D7%91%D7%A7%20%D7%98%D7%95%D7%91.mp3" length="68617293" type="audio/mpeg"/>
