@@ -11,6 +11,15 @@
     <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>פתח תקוה</title>
+      <description>פתח תקוה</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%A4%D7%AA%D7%97%20%D7%AA%D7%A7%D7%95%D7%94.mp3" length="65931117" type="audio/mpeg"/>
+      <guid isPermaLink="false">פתח תקוה.mp3</guid>
+      <pubDate>Wed, 12 Apr 2023 12:30:16 -0000</pubDate>
+      <itunes:duration>01:09:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>אבר כיונה</title>
       <description>אבר כיונה</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%90%D7%91%D7%A8%20%D7%9B%D7%99%D7%95%D7%A0%D7%94.mp3" length="66421485" type="audio/mpeg"/>
