@@ -11,6 +11,15 @@
     <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>ברית ותורה</title>
+      <description>ברית ותורה</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%91%D7%A8%D7%99%D7%AA%20%D7%95%D7%AA%D7%95%D7%A8%D7%94.mp3" length="49451805" type="audio/mpeg"/>
+      <guid isPermaLink="false">ברית ותורה.mp3</guid>
+      <pubDate>Sat, 14 Jan 2023 23:26:14 -0000</pubDate>
+      <itunes:duration>00:54:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>נקודת שיחזור</title>
       <description>נקודת שיחזור</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%A0%D7%A7%D7%95%D7%93%D7%AA%20%D7%A9%D7%99%D7%97%D7%96%D7%95%D7%A8.mp3" length="70250733" type="audio/mpeg"/>
