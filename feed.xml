@@ -11,6 +11,15 @@
     <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>דבק טוב</title>
+      <description>דבק טוב</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%93%D7%91%D7%A7%20%D7%98%D7%95%D7%91.mp3" length="68617293" type="audio/mpeg"/>
+      <guid isPermaLink="false">דבק טוב.mp3</guid>
+      <pubDate>Sun, 10 Sep 2023 13:24:50 -0000</pubDate>
+      <itunes:duration>01:11:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>הסרת חסימות</title>
       <description>הסרת חסימות</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%94%D7%A1%D7%A8%D7%AA%20%D7%97%D7%A1%D7%99%D7%9E%D7%95%D7%AA.mp3" length="70216893" type="audio/mpeg"/>
