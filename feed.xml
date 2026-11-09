@@ -11,6 +11,15 @@
     <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>נגד התנועה</title>
+      <description>נגד התנועה</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%A0%D7%92%D7%93%20%D7%94%D7%AA%D7%A0%D7%95%D7%A2%D7%94.mp3" length="81268749" type="audio/mpeg"/>
+      <guid isPermaLink="false">נגד התנועה.mp3</guid>
+      <pubDate>Mon, 28 Aug 2023 09:15:25 -0000</pubDate>
+      <itunes:duration>01:25:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>סוד השמיר</title>
       <description>סוד השמיר</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%A1%D7%95%D7%93%20%D7%94%D7%A9%D7%9E%D7%99%D7%A8.mp3" length="77509677" type="audio/mpeg"/>
