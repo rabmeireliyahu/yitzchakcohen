@@ -11,6 +11,15 @@
     <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>בלעם</title>
+      <description>בלעם</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%91%D7%9C%D7%A2%D7%9D.mp3" length="167885085" type="audio/mpeg"/>
+      <guid isPermaLink="false">בלעם.mp3</guid>
+      <pubDate>Sat, 08 Jul 2023 12:23:05 -0000</pubDate>
+      <itunes:duration>03:09:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>סבלנות</title>
       <description>סבלנות</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%A1%D7%91%D7%9C%D7%A0%D7%95%D7%AA.mp3" length="167751933" type="audio/mpeg"/>
