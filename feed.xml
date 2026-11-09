@@ -11,6 +11,15 @@
     <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>משגיח ומציץ</title>
+      <description>משגיח ומציץ</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%9E%D7%A9%D7%92%D7%99%D7%97%20%D7%95%D7%9E%D7%A6%D7%99%D7%A5.mp3" length="99772029" type="audio/mpeg"/>
+      <guid isPermaLink="false">משגיח ומציץ.mp3</guid>
+      <pubDate>Tue, 25 Jul 2023 08:34:44 -0000</pubDate>
+      <itunes:duration>01:47:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>עבד כרבו</title>
       <description>עבד כרבו</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%A2%D7%91%D7%93%20%D7%9B%D7%A8%D7%91%D7%95.mp3" length="76431117" type="audio/mpeg"/>
