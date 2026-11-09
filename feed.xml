@@ -11,6 +11,15 @@
     <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>שערי תורה</title>
+      <description>שערי תורה</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%A9%D7%A2%D7%A8%D7%99%20%D7%AA%D7%95%D7%A8%D7%94.mp3" length="75902301" type="audio/mpeg"/>
+      <guid isPermaLink="false">שערי תורה.mp3</guid>
+      <pubDate>Wed, 07 Jun 2023 04:02:38 -0000</pubDate>
+      <itunes:duration>01:20:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>דורשי יחודך</title>
       <description>דורשי יחודך</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%93%D7%95%D7%A8%D7%A9%D7%99%20%D7%99%D7%97%D7%95%D7%93%D7%9A.mp3" length="78143901" type="audio/mpeg"/>
