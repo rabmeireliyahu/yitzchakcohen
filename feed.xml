@@ -11,6 +11,15 @@
     <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>איך ומתי</title>
+      <description>איך ומתי</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%90%D7%99%D7%9A%20%D7%95%D7%9E%D7%AA%D7%99.mp3" length="75144045" type="audio/mpeg"/>
+      <guid isPermaLink="false">איך ומתי.mp3</guid>
+      <pubDate>Thu, 08 Dec 2022 00:38:27 -0000</pubDate>
+      <itunes:duration>01:17:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>אנשים טובים</title>
       <description>אנשים טובים</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%90%D7%A0%D7%A9%D7%99%D7%9D%20%D7%98%D7%95%D7%91%D7%99%D7%9D.mp3" length="209886261" type="audio/mpeg"/>
