@@ -2620,5 +2620,14 @@
       <itunes:duration>00:40:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>עניין של זמן</title>
+      <description>עניין של זמן</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%A2%D7%A0%D7%99%D7%99%D7%9F%20%D7%A9%D7%9C%20%D7%96%D7%9E%D7%9F.mp3" length="98576301" type="audio/mpeg"/>
+      <guid isPermaLink="false">עניין של זמן.mp3</guid>
+      <pubDate>Thu, 12 Nov 2026 23:14:13 -0000</pubDate>
+      <itunes:duration>01:43:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>
