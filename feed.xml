@@ -2638,5 +2638,14 @@
       <itunes:duration>01:56:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>איש צדיק</title>
+      <description>איש צדיק</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-yitzchakcohen/%D7%90%D7%99%D7%A9%20%D7%A6%D7%93%D7%99%D7%A7.mp3" length="146669492" type="audio/mpeg"/>
+      <guid isPermaLink="false">איש צדיק.mp3</guid>
+      <pubDate>Mon, 23 Nov 2026 14:35:54 -0000</pubDate>
+      <itunes:duration>04:48:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>
